@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I’m Todd Pratt — DevOps & Web Software Engineer
 
-<!--
-**toddpratt/toddpratt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build reliable, observable platforms with IaC, containers, and CI/CD.  
+**Toolbox:** Linux, Ansible, Terraform, Docker, Kubernetes (K3s/AKS), Helm, NGINX/Traefik, Prometheus/Grafana, Loki/Promtail, Jenkins/GitHub Actions, SQL.
 
-Here are some ideas to get you started:
+## Highlights
+- Designed end-to-end CI/CD with versioned Docker images and integration tests in Compose/K8s.
+- Production-grade observability stack (Prometheus + Grafana + Loki/Promtail) with actionable alerts.
+- Secure by default: TLS everywhere (ACME/step-ca), least-privilege, secrets hygiene.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- **<Project 1>** — one-sentence impact + stack (e.g., *FastAPI + SQLAlchemy + Alembic, JWT auth, Dockerized*). ➜ [repo link]
+- **<Project 2>** — one-sentence impact + stack (e.g., *Grafana/Prometheus/Loki compose bundle with dashboards*). ➜ [repo link]
+- **<Project 3>** — one-sentence impact + stack (e.g., *Blue/green deploys with NGINX & GitHub Actions*). ➜ [repo link]
+
+## How I work
+- Infrastructure as Code (Terraform/Ansible), GitOps where it fits (Argo CD/Flux).
+- Automated tests (unit + integration), security scanning in CI.
+- Clear READMEs: what it is, how to run it locally, how it’s deployed.
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/todd-pratt-841522134/)
+
